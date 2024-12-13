@@ -1,0 +1,2 @@
+- avatar & cloudinary after project completion
+- make a global error handler middleware
